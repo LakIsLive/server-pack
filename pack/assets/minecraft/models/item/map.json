@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/map","particle":"item/map"},"overrides":[{"predicate":{"custom_model_data":1010},"model":"blank:auto_generated/blank"},{"predicate":{"custom_model_data":2001},"model":"guis/pwarps/star"}]}
