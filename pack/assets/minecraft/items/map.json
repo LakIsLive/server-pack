@@ -1,0 +1,7 @@
+{"model":{"type":"minecraft:range_dispatch","property":"minecraft:custom_model_data","index":0,
+"fallback":{"type":"minecraft:model","model":"minecraft:item/map"},
+"entries":[
+{"threshold":1010,"model":{"type":"minecraft:model","model":"minecraft:guis/invisibleitem"}},
+{"threshold":1011,"model":{"type":"minecraft:model","model":"minecraft:item/map"}},
+{"threshold":2001,"model":{"type":"minecraft:model","model":"minecraft:guis/pwarps/star"}},
+{"threshold":2002,"model":{"type":"minecraft:model","model":"minecraft:item/map"}}]}}
