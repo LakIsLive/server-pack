@@ -61,16 +61,16 @@
         "\uef10": -70,
         "\uef11": -135,
         "\uef22": 37.5,
-        "\uef23": -80.5,
+        "\uef23": -85.5,
         "\uef24": -65,
-        "\uef25": 34
+        "\uef25": 32
       }
     },
     {
       "type": "bitmap",
       "file": "custom_escape:escape_menu/mascot_dragon.png",
-      "height": 28,
-      "ascent": 23,
+      "height": 32,
+      "ascent": 24,
       "chars": [
         "\uef20"
       ]
@@ -78,8 +78,8 @@
     {
       "type": "bitmap",
       "file": "custom_escape:escape_menu/mascot_warrior.png",
-      "height": 34,
-      "ascent": 23,
+      "height": 36,
+      "ascent": 24,
       "chars": [
         "\uef21"
       ]
