@@ -57,7 +57,9 @@
     {
       "type": "space",
       "advances": {
-        "\uef0e": -1
+        "\uef0e": -1,
+        "\uef10": -70,
+        "\uef11": -135
       }
     }
   ]
