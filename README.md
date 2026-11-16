@@ -11,5 +11,5 @@ Minecraft server resource pack for the Demoncore network.
   item's custom model data colour, so one model serves every zone colour.
 
 ## Rebuilding the zip
-From the `pack` folder (Windows): `tar.exe -a -c -f ../server-pack.zip *`
+Run `python build_zip.py` (builds and verifies the zip; do not use Windows `tar.exe`, it once wrote a truncated zip).
 Then put the new SHA-1 (`sha1sum server-pack.zip`) in the proxy's `plugins/forcepack/config.toml` (`global-pack.hash`).
