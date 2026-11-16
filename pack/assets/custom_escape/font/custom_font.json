@@ -1,49 +1,64 @@
 {
-    "providers": [
-        {
-            "file": "custom_escape:internal/square.png",
-            "chars": [
-                "\uEFFF"
-            ],
-            "height": -209,
-            "ascent": -10000,
-            "type": "bitmap"
-        },
-        {
-            "type": "bitmap",
-            "file": "custom_escape:escape_menu/logo.png",
-            "height": 120,
-            "ascent": 113,
-            "chars": [
-                "\uEF00"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom_escape:escape_menu/back_to_game.png",
-            "height": 120,
-            "ascent": 113,
-            "chars": [
-                "\uEF01"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom_escape:escape_menu/quit.png",
-            "height": 120,
-            "ascent": 112,
-            "chars": [
-                "\uEF02"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom_escape:escape_menu/bottom_card.png",
-            "height": 121,
-            "ascent": -5,
-            "chars": [
-                "\uEF03"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "file": "custom_escape:internal/square.png",
+      "chars": [
+        "\uefff"
+      ],
+      "height": -209,
+      "ascent": -10000,
+      "type": "bitmap"
+    },
+    {
+      "type": "bitmap",
+      "file": "custom_escape:escape_menu/logo.png",
+      "height": 120,
+      "ascent": 113,
+      "chars": [
+        "\uef00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom_escape:escape_menu/logo_r.png",
+      "height": 120,
+      "ascent": 113,
+      "chars": [
+        "\uef0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom_escape:escape_menu/back_to_game.png",
+      "height": 120,
+      "ascent": 113,
+      "chars": [
+        "\uef01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom_escape:escape_menu/quit.png",
+      "height": 120,
+      "ascent": 112,
+      "chars": [
+        "\uef02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom_escape:escape_menu/bottom_card.png",
+      "height": 121,
+      "ascent": -5,
+      "chars": [
+        "\uef03"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uef0e": -1
+      }
+    }
+  ]
 }
